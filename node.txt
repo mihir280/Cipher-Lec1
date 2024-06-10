@@ -1,0 +1,6 @@
+for node install and checking the version we use:-
+  "node --version"
+
+
+for npm pakcege manager version we use:-
+"npm --v"
